@@ -1,0 +1,8 @@
+{
+  "name": "Remix Aegis AI - Pentest \u0026 Vulnerability Remediation",
+  "description": "AI-powered web penetration testing, vulnerability discovery, root-cause diagnosis, one-click remediation engine, and audit trail dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
